@@ -19,7 +19,7 @@ The project makes use of Words Happiness Report open-source datasets from kaggle
 - 2017.csv
 - 2018.csv
 - 2019.csv
-- [Datasets](https://www.kaggle.com/datasets/mathurinache/world-happiness-report/data?select=2022.csv)
+- [Datasets used](https://www.kaggle.com/datasets/mathurinache/world-happiness-report/data?select=2022.csv)
 
 ## Tools
 The data was analyzed using Python and the following libraries:
