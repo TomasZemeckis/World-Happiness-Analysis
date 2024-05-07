@@ -2,7 +2,7 @@
 I organised and examined multiple datasets for world happiness report using Python. After that, I produced a report within Tableu.
 
 ## Objective
-
+To carry out a thorough analysis of the World Happiness Report, looking at important metrics, and trends over time in order to pinpoint the variables affecting happiness levels globally and provide guidance for global well-being improvement initiatives.
 
 ## Key Questions
 - How does GDP correlate with happiness?
