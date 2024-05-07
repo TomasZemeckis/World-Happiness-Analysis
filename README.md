@@ -22,6 +22,7 @@ The project makes use of Words Happiness Report open-source datasets from kaggle
 - [Datasets used](https://www.kaggle.com/datasets/mathurinache/world-happiness-report/data?select=2022.csv)
 
 ## Tools
+Dashboard made using Tableau public
 The data was analyzed using Python and the following libraries:
 
 - Pandas: for data analysis
