@@ -33,5 +33,9 @@ The data was analyzed using Python and the following libraries:
 - sklearn: for provides many unsupervised and supervised learning algorithms.
 - KMeans: for using to identify clusters of data objects in a dataset
 - pylab: for  importing functions from the modules Numpy and Matplotlib
+- 
 ## Folders
 - 03 Scripts: The Jupyter notebooks containing the coding for the analysis.
+- 
+## Visualizations
+All visualizations were created in Tableau Public
