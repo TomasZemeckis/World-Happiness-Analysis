@@ -38,4 +38,4 @@ The data was analyzed using Python and the following libraries:
 - 03 Scripts: The Jupyter notebooks containing the coding for the analysis.
 - 
 ## Visualizations
-All visualizations were created in Tableau Public
+All visualizations were created in Tableau Public and can be viewed here
