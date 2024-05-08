@@ -6,9 +6,7 @@ To carry out a thorough analysis of the World Happiness Report, looking at impor
 
 ## Key Questions
 - How does GDP correlate with happiness?
-- How do countries with similar GDPs differ in terms of happiness levels?
 - Is there a correlation between GDPs per capita and life expectancy?
-- Which countries regularly rank high or low in happiness across multiple years?
 - Is there a relationship between trust in government and happiness score?
 - How does a country's level of freedom compare to its happiness score?
 
