@@ -36,4 +36,4 @@ The data was analyzed using Python and the following libraries:
 - 03 Scripts: The Jupyter notebooks containing the coding for the analysis.
   
 ## Visualizations
-All visualizations were created in Tableau Public and can be viewed here
+All visualizations were created in Tableau Public and can be viewed [here](https://public.tableau.com/app/profile/tomas.zemeckis/viz/WorldhappinessReport_17151770950300/Story1?publish=yes)
