@@ -7,8 +7,7 @@ To carry out a thorough analysis of the World Happiness Report, looking at impor
 ## Key Questions
 - How does GDP correlate with happiness?
 - Is there a correlation between GDPs per capita and life expectancy?
-- Is there a relationship between trust in government and happiness score?
-- How does a country's level of freedom compare to its happiness score?
+- Which countries regularly rank high or low in happiness across multiple years?
 
 ## Data 
 The project makes use of Words Happiness Report open-source datasets from kaggle.com. In order to answer the above questions.
